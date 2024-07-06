@@ -1,0 +1,12 @@
+Instruções de uso do programa PBKDF2 
+
+1- Abra o programa "PBKDF2.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Digite a senha que deseja;
+
+3- Digite o sal (tipo de segunda senha, para aprimorar a segurança)
+
+4- PRONTO!
+OBS: Caso você deseja integrar esse script a um programa que administre banco de dados,
+o hash resultante do algoritmo PBKDF2 deve ser salvo em local separado do sal.
